@@ -1,6 +1,6 @@
-### Hi there 👋,
+### Hi There 👋,
 ![](https://github.com/tom-koh/tom-koh/blob/main/welcome1.png?raw=true)
-
+![Profile views](https://gpvc.arturio.dev/tom-koh)  
 
 
 
@@ -18,4 +18,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/tom-koh)  
 
-![Profile views](https://gpvc.arturio.dev/tom-koh)  
+
