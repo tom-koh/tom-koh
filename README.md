@@ -1,4 +1,4 @@
-### Hi there 👋, Hi There
+### Hi there 👋,
 ![](https://github.com/tom-koh/tom-koh/blob/main/welcome1.png?raw=true)
 
 
